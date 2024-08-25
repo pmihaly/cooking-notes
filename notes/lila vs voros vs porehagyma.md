@@ -1,0 +1,7 @@
+- [[voroshagyma]]: hagymabb ize van
+	- porkolt
+	- sult hus melle
+	- rantashoz
+- [[lilahagyma]] es [[porehagyma]]: lagyabb ize van
+	- salatakba
+	- szendvicsekbe

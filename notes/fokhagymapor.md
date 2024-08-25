@@ -1,1 +1,2 @@
-#fuszer
+#fuszer 
+[[fokhagyma]]

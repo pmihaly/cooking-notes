@@ -1,0 +1,2 @@
+#fuszer #zoldseg
+[[fokhagymapor]]

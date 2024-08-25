@@ -25,7 +25,6 @@
           {
             projectRootFile = "flake.nix";
             programs.nixfmt.enable = true;
-            programs.mdformat.enable = true;
           }
         );
 
@@ -35,7 +34,6 @@
 
         formatter = treefmtEval.config.build.wrapper;
         checks.formatting = treefmtEval.config.build.check;
-
       }
     );
 }

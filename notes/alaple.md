@@ -1,0 +1,1 @@
+helyettesitheto leveskockaval - mindegy melyikkel

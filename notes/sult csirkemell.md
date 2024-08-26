@@ -9,6 +9,7 @@
 - vagd be a hust es a bevagasokba is tegyel pacot
 
 - [[blackened chicken]]
+- [[zaatar]]
 ## [[sutes]]
 - nagyon fontos a kereg - sotetnek es kemenynek kell lennie a hus feluletenek
 	- ellenorizni hogy kialakul-e a kereg, eleg kemeny-e a csirke felulete

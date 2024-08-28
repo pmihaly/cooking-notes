@@ -7,3 +7,4 @@
 - magok
 	- [[chia mag]]
 	- [[szezammag]]
+	- [[zaatar]]

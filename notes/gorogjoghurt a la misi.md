@@ -8,3 +8,6 @@
 	- [[chia mag]]
 	- [[szezammag]]
 	- [[zaatar]]
+	- [[kesudio]]
+	- [[mogyoro]]
+	- [[dio]]

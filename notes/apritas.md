@@ -1,0 +1,2 @@
+#technika 
+- botmixer vagy apritogep

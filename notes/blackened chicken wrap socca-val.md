@@ -1,4 +1,4 @@
-#etel
+#fogas
 - source: https://www.cookwell.com/recipe/blackened-chicken-wrap
 
 - hus:

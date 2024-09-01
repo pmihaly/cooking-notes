@@ -1,0 +1,4 @@
+- 1-2 ek [[liszt]]
+- 3-5 ek [[tejfol]]
+- kanallal csomomentesre keverni
+- hokiegyenlitve levesbe tenni

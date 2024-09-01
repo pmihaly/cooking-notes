@@ -1,4 +1,4 @@
-#etel
+#fogas
 - [[gorogjoghurt]]
 - gyumolcsok
 	- [[szolo]]

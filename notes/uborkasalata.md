@@ -1,4 +1,4 @@
-#etel 
+#fogas
 2 adagra
 ## uborka elokeszitese
 - 2 [[uborka]]-t meghamozni, leszeleteljuk nagyon vekonyra, erdemes [[reszelni]]

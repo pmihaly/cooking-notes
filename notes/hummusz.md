@@ -1,4 +1,4 @@
-#szosz #todo
+#szosz
 https://streetkitchen.hu/vegetarianus-etelek/hazi_hummusz_egyszeruen/
 
 - 2 konzerv (net 240g) [[csicseriborso]] + a leve

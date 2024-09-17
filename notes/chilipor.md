@@ -1,3 +1,3 @@
 #fuszer 
 
-ugyanaz mint a [[cayenne paprika]]
+aka [[cayenne paprika]]

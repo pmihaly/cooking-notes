@@ -12,4 +12,4 @@ https://streetkitchen.hu/nyar/tokeletes-shakshuka/
 - 5-10 percig fozzuk
 - 2-4 [[tojas]] (emberenkent 1 tojas)
 - 1 tk [[petrezselyem]]
-- 180 fokos sutoben 10 percig sutni
+- 180 fokos sutoben 10 percig sutni (nem kell elomelegiteni)

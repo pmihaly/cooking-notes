@@ -8,8 +8,8 @@ https://streetkitchen.hu/nyar/tokeletes-shakshuka/
 - 1/4 tk [[chilipor]]
 - 1/4 tk [[feketebors]]
 - 10 percig kozepes langon hagyjuk
-- 240 g netto [[paradicsomkonzerv]] vagy 6 fej hamozott, kockazott / cikkezett (felbe es megegyszer felbe) [[paradicsom]]
+- 1 db (400 g netto) [[paradicsomkonzerv]] vagy 6 fej hamozott, kockazott / cikkezett (felbe es megegyszer felbe) [[paradicsom]]
 - 5-10 percig fozzuk
-- 2-4 [[tojas]] (emberenkent 1 tojas)
+- 2-4 [[tojas]] (emberenkent 1-2 tojas)
 - 1 tk [[petrezselyem]]
 - 180 fokos sutoben 10 percig sutni (nem kell elomelegiteni)

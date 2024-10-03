@@ -11,3 +11,6 @@ https://streetkitchen.hu/vegetarianus-etelek/hazi_hummusz_egyszeruen/
 - 2 ek [[tahini]]
 - ossze[[apritas]]
 	- allagot javitani [[olivaolaj]]al, [[citromle]]vel es fozo/konzervlevel (csicseriborso)
+
+- [[socca - farinata]] / [[tortilla]]
+- [[repa]]

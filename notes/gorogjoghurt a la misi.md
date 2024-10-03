@@ -4,10 +4,13 @@
 	- [[szolo]]
 	- [[alma]]
 	- [[korte]]
-- magok
+	- [[szilva]]
+- magok ([[apritas]])
 	- [[chia mag]]
 	- [[szezammag]]
-	- [[zaatar]]
+	- [[zaatar]] 
+		- https://madscookhouse.com/zaatar-and-yoghurt-dip/
+		- https://www.rumispice.com/blogs/recipes/zaatar-tzatziki
 	- [[kesudio]]
 	- [[mogyoro]]
 	- [[dio]]

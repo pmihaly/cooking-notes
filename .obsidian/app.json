@@ -1,4 +1,23 @@
 {
   "promptDelete": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "mobileToolbarCommands": [
+    "editor:insert-wikilink",
+    "editor:toggle-bullet-list",
+    "editor:indent-list",
+    "editor:unindent-list",
+    "editor:insert-link",
+    "editor:redo",
+    "editor:undo",
+    "editor:set-heading",
+    "editor:toggle-bold",
+    "editor:toggle-italics",
+    "editor:toggle-strikethrough",
+    "editor:toggle-highlight",
+    "editor:toggle-code",
+    "editor:toggle-blockquote",
+    "editor:toggle-numbered-list",
+    "editor:toggle-checklist-status",
+    "editor:configure-toolbar"
+  ]
 }

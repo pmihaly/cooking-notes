@@ -1,0 +1,142 @@
+{
+  "main": {
+    "id": "8a8fa4e9da6c65ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e83813f29e56e6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9a4a4af35d8b073d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "tahinis csirke puliszkaval.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "46061708f8f11a7a",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "398511e7f11dc9ad",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "fcd80c492b587923",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "53b11b63bd8104a2",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "ab9cac93e281e24e",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "978e4776c8857ccd",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "9e384c28828087a5",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "tahinis csirke puliszkaval.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "4ca8ff674210882b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "tahinis csirke puliszkaval.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "a3062503164551c8",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "tahinis csirke puliszkaval.md"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9a4a4af35d8b073d",
+  "lastOpenFiles": [
+    "voroshagyma.md",
+    "tahinis csirke puliszkaval.md",
+    "kukoricadara.md",
+    "puliszka.md",
+    "notes/shakshuka.md"
+  ]
+}

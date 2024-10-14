@@ -22,7 +22,7 @@
 	- [[hagyma]]
 	- [[zeller]]
 	- [[kaliforniai paprika]]
-	- [[sult csicseriborso]]
+	- [[sult ropogos csicseriborso snack]]
 	- magok
 		- apritott diofelek
 		- [[chia mag]]

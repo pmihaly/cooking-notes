@@ -13,11 +13,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tahinis csirke puliszkaval.md",
+                "file": "notes/sult ropogos csicseriborso snack.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "e5ca52a483721674"
+          }
+        ]
+      },
+      {
+        "id": "4679a13d9679de7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c2e8545056a3f50",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/sult ropogos csicseriborso snack.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e5ca52a483721674"
+          }
+        ]
+      },
+      {
+        "id": "17f4e8962f7aa1de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d3617adc66c22e20",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "notes/sult ropogos csicseriborso snack.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e5ca52a483721674"
           }
         ]
       }
@@ -85,7 +170,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "tahinis csirke puliszkaval.md",
+            "file": "notes/sult ropogos csicseriborso snack.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +187,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "tahinis csirke puliszkaval.md",
+            "file": "notes/sult ropogos csicseriborso snack.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,7 +199,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "tahinis csirke puliszkaval.md"
+            "file": "notes/sult ropogos csicseriborso snack.md"
           }
         }
       }
@@ -133,8 +218,10 @@
   },
   "active": "9a4a4af35d8b073d",
   "lastOpenFiles": [
-    "voroshagyma.md",
+    "koriandermag.md",
+    "notes/sult ropogos csicseriborso snack.md",
     "tahinis csirke puliszkaval.md",
+    "voroshagyma.md",
     "kukoricadara.md",
     "puliszka.md",
     "notes/shakshuka.md"

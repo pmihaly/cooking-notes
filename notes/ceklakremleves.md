@@ -16,4 +16,4 @@ https://cookpad.com/hu/receptek/14267794-ceklakremleves
 
 - talalhatjuk:
 	- [[piritott hagyma]]val
-	- [[sult csicseriborso]]val
+	- [[sult ropogos csicseriborso snack]]val

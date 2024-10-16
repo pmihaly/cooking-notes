@@ -1,1 +1,1 @@
-Ala [[puliszka]]
+Aka [[puliszka]]

@@ -8,101 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9a4a4af35d8b073d",
+            "id": "d427f0afbbd5babd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "kukoricadara.md",
+                "file": "notes/bulgur.md",
                 "mode": "source",
                 "source": false
-              }
-            },
-            "group": "e5ca52a483721674"
-          }
-        ]
-      },
-      {
-        "id": "4679a13d9679de7f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "7c2e8545056a3f50",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "kukoricadara.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "e5ca52a483721674"
-          }
-        ]
-      },
-      {
-        "id": "17f4e8962f7aa1de",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d3617adc66c22e20",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "kukoricadara.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "e5ca52a483721674"
+              },
+              "icon": "lucide-file",
+              "title": "bulgur"
+            }
           }
         ]
       }
@@ -120,7 +37,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -135,7 +54,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -146,7 +67,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -154,7 +77,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -170,7 +95,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "kukoricadara.md",
+            "file": "notes/bulgur.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -178,7 +103,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -187,10 +114,12 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "kukoricadara.md",
+            "file": "notes/bulgur.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -199,8 +128,10 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "kukoricadara.md"
-          }
+            "file": "notes/bulgur.md"
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -216,10 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9a4a4af35d8b073d",
+  "active": "d427f0afbbd5babd",
   "lastOpenFiles": [
-    "puliszka.md",
+    "notes/sopszka.md",
+    "notes/bulgur.md",
+    "notes/hummusz.md",
+    "feherbors.md",
     "kukoricadara.md",
+    "puliszka.md",
     "notes/sult ropogos csicseriborso snack.md",
     "Untitled",
     "koriandermag.md",

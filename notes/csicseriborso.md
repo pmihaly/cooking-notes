@@ -1,0 +1,2 @@
+- lehet venni konzerven es szarazon
+- szarazon: be kell aztatni ejszakara es friss vizben meg kell fozni - 1.5-2 oraig, amig meg nem puhul

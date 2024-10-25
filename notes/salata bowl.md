@@ -22,7 +22,9 @@
 	- [[hagyma]]
 	- [[zeller]]
 	- [[kaliforniai paprika]]
+	- nyers [[cekla]]
 	- [[sult ropogos csicseriborso snack]]
+	- [[piritott hagyma]]
 	- magok
 		- apritott diofelek
 		- [[chia mag]]
@@ -30,7 +32,7 @@
 - puha
 	- [[uborka]]
 	- [[paradicsom]]
-	- [[cekla]]
+	- fott [[cekla]]
 - feherje
 	- [[feta]]
 	- [[sult csirkemell]] kockazva

@@ -1,0 +1,4 @@
+- Megmosni
+- Keresztbe, majd hosszaban felezni
+- Negyedeket elfelezni
+- Sutoben 200 fokon 60 percig sutni

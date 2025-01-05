@@ -7,6 +7,7 @@ https://streetkitchen.hu/nyar/tokeletes-shakshuka/
 - 1/4 tk [[romai komeny]]
 - 1/4 tk [[chilipor]]
 - 1/4 tk [[feketebors]]
+- 1/4 tk [[koriandermag]]
 - 10 percig kozepes langon hagyjuk
 - 1 db (400 g netto) [[paradicsomkonzerv]] vagy 6 fej hamozott, kockazott / cikkezett (felbe es megegyszer felbe) [[paradicsom]]
 - 5-10 percig fozzuk

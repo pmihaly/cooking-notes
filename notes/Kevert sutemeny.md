@@ -1,0 +1,12 @@
+- 3 [[alma]] megtisztitunk, meghejazunk es felvagunk![[IMG_0402.jpeg]]
+- 1 citrom/ 2 kanal [[citromle]]vel almakat leontunk
+- 3 [[tojas]]t osszekeverunk, 130 gram [[kristalycukor]]t teszunk bele, felkeverjuk
+- 180ml langyos [[tej]]et teszunk a tojasba
+- 80g [[vaj]]at olvasztunk (kockazva, mikroban)
+- 300g [[liszt]]be fel zacsko (1 zacsko = 15.5g) [[sutopor]]t keverunk
+- 180 fokra elomelegitjuk a [[suto]]t
+- Osszekeverjuk a tej+vajat, a liszt+sutoport es a tojas+cukrot, osszekeverjuk, legyen sima
+- belerakjuk az [[alma]]t
+- Egy talat [[sutopapir]]ral kibelelunk, belontjuk a kevereket![[IMG_0403 1.jpeg]]
+- Berakjuk a sutobe 30 percre![[IMG_0404.jpeg]]
+Bovitheto [[alma]], [[kakao]], [[kefir]], [[kave]], [[meggy]]

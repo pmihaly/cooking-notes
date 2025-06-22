@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sutotok.md",
+                "file": "notes/Kevert sutemeny.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sutotok"
+              "title": "Kevert sutemeny"
             }
           }
         ]
@@ -36,7 +36,8 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical"
+            "sortOrder": "alphabetical",
+            "autoReveal": false
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -149,19 +150,29 @@
   },
   "active": "d427f0afbbd5babd",
   "lastOpenFiles": [
+    "IMG_0404.jpeg",
+    "IMG_0403 1.jpeg",
+    "IMG_0403.jpeg",
+    "IMG_0402.jpeg",
+    "notes/Untitled.md",
+    "().md",
+    "notes/Kevert sutemeny.md",
+    "kukoricadara.md",
+    "puliszka.md",
+    "notes/fanyaru joghurt szosz.md",
+    "notes/blackened chicken.md",
+    "notes/blackened chicken wrap socca-val.md",
+    "notes/sult ropogos csicseriborso snack.md",
+    "sutotok.md",
     "notes/csicseriborso.md",
     "notes/amatriciana spaghetti.md",
-    "sutotok.md",
     "notes/hummusz.md",
     "notes/socca - farinata.md",
     "notes/garnelas spagetti.md",
-    "notes/sult ropogos csicseriborso snack.md",
     "notes/bulgur.md",
     "aaaaaa.md",
     "notes/sopszka.md",
     "feherbors.md",
-    "kukoricadara.md",
-    "puliszka.md",
     "Untitled",
     "koriandermag.md",
     "tahinis csirke puliszkaval.md",

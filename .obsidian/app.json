@@ -18,6 +18,7 @@
     "editor:toggle-blockquote",
     "editor:toggle-numbered-list",
     "editor:toggle-checklist-status",
-    "editor:configure-toolbar"
+    "editor:configure-toolbar",
+    "editor:attach-file"
   ]
 }

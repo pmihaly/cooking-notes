@@ -1,0 +1,11 @@
+- 500g [[kekszmorzsa]]
+- 2 ek cukrozatlan [[kakao]]por
+- 100g [[porcukor]]
+- 3 ek savanyu[[lekvar]] (meggy, erdelyi gyumolcsos, narancs vagy barack)
+- 250g [[vaj]] (elomelegitett - mikroban kis darabkakban)
+- 1.5-2dl [[tej]] (fokozatosan adagolva)
+- [[kokuszreszelek]]
+
+- kekszmorzsat, kakaot, cukrot, vajat, lekvart osszeontjuk
+- Kezzel osszekeverjuk, tejet ovatosan adagolva
+- Golyokat formalunk a tesztabol, kokuszreszelekben meghempergetjuk
